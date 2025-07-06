@@ -10,3 +10,8 @@ public class Spring5webappApplication {
 		SpringApplication.run(Spring5webappApplication.class, args);
 	}
 }
+
+
+public static void main() {
+	System.out.println("Java sucks");
+}
